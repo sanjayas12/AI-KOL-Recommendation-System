@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+numpy
+psycopg2-binary
+sentence-transformers
+faiss-cpu
+scikit-learn

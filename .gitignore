@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+env/
+
+.idea/
+.vscode/
+
+.ipynb_checkpoints/
+
+*.log
+
+embeddings.npy
+researchers.index
+researcher_metadata.csv
